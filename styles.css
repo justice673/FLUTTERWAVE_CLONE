@@ -30,9 +30,6 @@
 body {
     font-family: 'moderat';
     font-weight: 500;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    /* height: 2000vh; */
     overflow-x: hidden;
     margin: 0;
 }
@@ -1068,7 +1065,7 @@ left p {
 }
 .left-stats::before {
     content: '';
-    background: url(/images/dots.png);
+    background: url(images/dots.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
