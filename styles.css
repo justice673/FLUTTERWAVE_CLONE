@@ -1065,7 +1065,7 @@ left p {
 }
 .left-stats::before {
     content: '';
-    background: url(images/dots.png);
+    background: url(/images/dots.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
